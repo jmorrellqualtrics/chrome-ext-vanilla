@@ -1,10 +1,10 @@
 {
 	"manifest_version": 2,
-	"name": "Google Search Sherpa",
-	"description": "Improvements to your search experience",
+	"name": "gSuggest",
+	"description": "Improvements to your friend's search experience",
 	"version": "1.0.0",
 	"permissions": [
-		"activeTab",
+		"activeTab"
 	],
 	"icons": { "128": "icon.png"},
 	"content_scripts": [

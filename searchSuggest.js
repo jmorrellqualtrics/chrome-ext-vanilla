@@ -11,8 +11,8 @@ $( document ).ready(function() {
 	});
 
 	// Data
-	var searchTerm = ["Darude - Sandstorm by Darude", "test"];
-	var searchURL = ["/search?espv=2&biw=1280&bih=637&q=darude+sandstorm&spell=1&sa=X&ved=0ahUKEwjPtr7WnNLKAhUT4GMKHcBiBkEQvwUIGSgA", "test"];
+	var searchTerm = ["Darude - Sandstorm by Darude", "Russian mail order bride prices", "Vladimir Putin shirtless", "how to raise your iq by eating gifted children"];
+	var searchURL = ["/search?espv=2&biw=1280&bih=637&q=darude+sandstorm&spell=1&sa=X&ved=0ahUKEwjPtr7WnNLKAhUT4GMKHcBiBkEQvwUIGSgA", "/search?q=Russian+mail+order+bride+prices&oq=Russian+mail+order+bride+prices&aqs=chrome..69i57.490j0j1&sourceid=chrome&es_sm=91&ie=UTF-8", "search?q=vladimir+putin+shirtless&biw=1280&bih=637&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiOttTzr9LKAhUO4GMKHSC3CycQ_AUIBigB", "search?q=how+to+increase+your+iq+by+eating+gifted+children&oq=how+to+increase+your+iq+by+eating+gifted+children&aqs=chrome..69i57.9999j0j1&sourceid=chrome&es_sm=91&ie=UTF-8"];
 	
 
 	// Search Suggest Functions
