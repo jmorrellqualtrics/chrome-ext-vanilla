@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "gSuggest",
 	"description": "Improvements to your friend's search experience",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"permissions": [
 		"activeTab"
 	],
